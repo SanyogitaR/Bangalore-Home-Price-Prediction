@@ -1,6 +1,6 @@
 # Bangalore Home Price Prediction
 
-![Interface Screenshot](path-to-your-screenshot.png)
+![Interface Screenshot](interface.png)
 
 ## Project Overview
 
@@ -44,5 +44,4 @@ This project is a machine learning-based system that predicts home prices in Ban
 * GridSearchCV
 * Feature scaling and encoding
 
-## Project Structure
 
